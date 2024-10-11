@@ -1,0 +1,1 @@
+ensures that once a transaction has been committed to the database, it will remain there permanently, even in the case of a system crash or power failure.

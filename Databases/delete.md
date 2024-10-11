@@ -1,0 +1,1 @@
+[[SQL]] command to delete from a table
