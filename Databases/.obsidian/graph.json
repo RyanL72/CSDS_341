@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "Object Explorer",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "Relational Algebra",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -35,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.661458333333333,
-  "repelStrength": 13.4375,
-  "linkStrength": 0.760416666666667,
+  "centerStrength": 0.643229166666667,
+  "repelStrength": 12.7604166666667,
+  "linkStrength": 0.395833333333333,
   "linkDistance": 30,
-  "scale": 0.7132754626224531,
+  "scale": 1.0684321406286752,
   "close": false
 }

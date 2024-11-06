@@ -6,7 +6,8 @@ It provides a view of all the objects on the SQL server. Allowing you to drill d
 
 ### Key Features
 ---
-- Server Instances
+- [[Objects]]
+- [[Actions]]
 
 ### Image
 ---

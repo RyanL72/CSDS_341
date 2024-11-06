@@ -1,4 +1,6 @@
 
 represent queries of [[Relations]]
-
-[[theta-join]] 
+### Key Features
+---
+- [[Relational Algebra Operations]]
+- [[Joins]]
