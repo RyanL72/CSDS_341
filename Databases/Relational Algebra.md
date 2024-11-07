@@ -1,3 +1,7 @@
+---
+tags:
+  - Relational_Algebra
+---
 
 represent queries of [[Relations]]
 ### Key Features
