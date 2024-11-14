@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "JDBC",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -49,10 +56,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.643229166666667,
-  "repelStrength": 12.7604166666667,
-  "linkStrength": 0.684895833333333,
+  "centerStrength": 0.260416666666667,
+  "repelStrength": 7.65625,
+  "linkStrength": 0.536458333333333,
   "linkDistance": 30,
-  "scale": 1.4775637492555582,
-  "close": true
+  "scale": 0.7249633278666902,
+  "close": false
 }
